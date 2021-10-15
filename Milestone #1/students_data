@@ -1,4 +1,4 @@
-CREATE hw_student;
+CREATE database hw_student;
 
 USE hw_student;
 
