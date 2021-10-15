@@ -23,3 +23,7 @@ VALUES ('Sakshi',28),('Sangam Jha',31);
 
 SELECT ID_No, Name, IFNULL(Address,'N/A') AS Address, Age
 FROM teachers;
+
+DROP table students_data,teachers;
+
+DROP database hw_student;
