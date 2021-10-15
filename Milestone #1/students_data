@@ -1,5 +1,7 @@
 CREATE hw_student;
 
+USE hw_student;
+
 CREATE TABLE students_data(
     Roll_No INT NOT NULL AUTO_INCREMENT,
     First_Name VARCHAR(30) NOT NULL DEFAULT 'UNKNOWN',
